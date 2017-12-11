@@ -14,7 +14,6 @@ import middleware from '../middleware/middle';
 const middlewares = [
     thunk,
     middleware,
-    // customLogger,
 ];
 
 export const store = createStore(
