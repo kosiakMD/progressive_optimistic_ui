@@ -1,4 +1,4 @@
-# Progressive (optimistic) UI
+# Progressive (optimistic) UI [Example]
 
 Realization Optimistic UI with Realistic elements by Redux
 
