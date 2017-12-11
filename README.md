@@ -1,6 +1,8 @@
 # Progressive (optimistic) UI [Example]
 
-Realization Optimistic UI with Realistic elements by Redux
+Example page: Realization Optimistic UI with Realistic elements by Redux
+
+[Optimistic 'utility'](/src/optimism)
 
 Supports ordinary plain and 'async' Actions (like [Redux Thunk](https://github.com/gaearon/redux-thunk))
 
