@@ -2,7 +2,7 @@
 
 Example page: Realization Optimistic UI with Realistic elements by Redux
 
-[Optimistic 'utility'](/src/optimism)
+Optimistic ['utility'](/src/optimism/index.js)
 
 Supports ordinary plain and 'async' Actions (like [Redux Thunk](https://github.com/gaearon/redux-thunk))
 
